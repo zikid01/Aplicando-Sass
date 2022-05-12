@@ -1,5 +1,5 @@
 nav {
-  background-color: #2e062e;
+  background-color: #3b0e38;
   border: solid;
   border-color: black;
   display: flex;
@@ -28,7 +28,7 @@ nav {
 #footer {
   display: flex;
   justify-content: space-between;
-  background-color: #3e0a7b; }
+  background-color: #8355b8; }
 
 footer .footer_logoMap {
   display: inline; }
